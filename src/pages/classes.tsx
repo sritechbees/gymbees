@@ -40,7 +40,7 @@ const ClassesHeader = () => {
                   {topic.name}
                 </h2>
                 <p className="mt-2 text-sm text-gray-400 text-center">
-                  Join our {topic.name} sessions and elevate your fitness journey.
+                  Join our {topic.name} sessions elevate your fitness journey.
                 </p>
               </div>
             </div>
